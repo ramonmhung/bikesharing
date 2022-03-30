@@ -7,3 +7,7 @@
 ## Tableau Link 
 
 [Tableau presentation](https://public.tableau.com/app/profile/ramon.manrique5174/viz/bikesharingchallenge_16485134983780/Story1)
+
+## Results 
+
+! (https://github.com/ramonmhung/bikesharing/blob/main/Images/Checkout_Times_General.png)
