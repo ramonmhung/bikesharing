@@ -10,4 +10,4 @@
 
 ## Results 
 
-! (https://github.com/ramonmhung/bikesharing/blob/main/Images/Checkout_Times_General.png)
+!(https://github.com/ramonmhung/bikesharing/blob/main/Images/Checkout_Times_General.png)
